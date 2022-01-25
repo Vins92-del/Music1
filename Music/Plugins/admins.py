@@ -259,11 +259,11 @@ async def stop_cmd(_, message):
                     reply_markup=InlineKeyboardMarkup(buttons),
                     caption=(
                         f"""
-<b>⏭️ Melewati lagu</b>
+<b>⏭️ sᴋɪᴘ sᴏɴɢ</b>
 
-<b>🏷 Nama:</b>[{title[:25]}]({url})
-<b>⏱️ Durasi:</b> {duration}
-<b>🎧 Atas permintaan:</b> {semx.mention}
+<b>🔖 ɴᴀᴍᴇ:</b>[{title[:25]}]({url})
+<b>⏱️ ᴅᴜʀᴀᴛɪᴏɴ:</b> {duration}
+<b>🎵 ʀᴇǫᴜᴇsᴛ ʙʏ:</b> {semx.mention}
 """
                     ),
                 )
@@ -296,11 +296,11 @@ async def stop_cmd(_, message):
                 photo=f"downloads/{_chat_}final.png",
                     reply_markup=InlineKeyboardMarkup(buttons),
                     caption=f"""
-<b>⏭️ Melewati lagu</b>
+<b>⏭️ sᴋɪᴘ sᴏɴɢ</b>
 
-<b>🏷️ Nama:</b> {title}
-<b>⏱️ Durasi:</b> {duration}
-<b>🎧 Atas permintaan</b> {username}
+<b>🔖 ɴᴀᴍᴇ:</b> {title}
+<b>⏱️ ᴅᴜʀᴀᴛɪᴏɴ:</b> {duration}
+<b>🎵 ʀᴇǫᴜᴇsᴛ ʙʏ</b> {username}
 """,
                 )
                 return
@@ -310,5 +310,5 @@ async def reload(_, message):
     chat_id = message.chat.id
     await _.send_message(
     chat_id,
-    "✅ Bot dimulai ulang **berhasil**\n\n✅ **Admin** daftar telah **diperbarui**"
+    "🟢 Bot dimulai ulang **berhasil**\n\n🟢 **Admin** daftar telah **diperbarui**"
 )

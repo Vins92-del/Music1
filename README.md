@@ -1,7 +1,7 @@
-<h2 align="centre">Kyy Music Player</h2>
+<h2 align="centre">Yins Music Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/37e7781a4a5d5875c8cb3.jpg">
+  <img src="https://telegra.ph/file/21bca0a64032cd5b23b3c.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -42,7 +42,7 @@
 + Sudo Users can execute any command in any groups
 
 ## String Session :
-[![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-white)](https://replit.com/@rizkyhmdanii16/StringSession)
+[![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-white)](https://replit.com/@AyiinXd/ConnorString)
 
 
 <h2 align="center">
@@ -51,7 +51,7 @@
 
 <p align="center">
 <a href="https://railway.app/new/template?template=https://github.com/muhammadrizky16/KyyMusic&envs=BOT_TOKEN%2CAPI_ID%2CAPI_HASH%2CSESSION_NAME%2CSUDO_USERS%2COWNER_ID%2CDURATION_LIMIT%2CCHANNEL%2CMONGO_DB_URI%2CLOG_GROUP_ID%2CASS_ID%2CGROUP&optionalEnvs=CHANNEL%2CGROUPCSUPPORT_CHANNEL%2CMONGO_DB_URI%2CLOG_GROUP_ID%2CASSISTANT_PREFIX%2CMUSIC_BOT_NAME%2CSUPPORT_GROUP&optionalEnvs=SUPPORT_CHANNEL%2CSUPPORT_GROUP"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="252""/</a>
-<a href="https://dashboard.heroku.com/new?template=https://github.com/muhammadrizky16/Music-Deploy"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/AyiinXd/YinsMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 <a href="https://telegram.dog/XTZ_HerokuBot?start=bXVoYW1tYWRyaXpreTE2L0t5eU11c2ljIG1hc3Rlcg"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
 
 ## Credits

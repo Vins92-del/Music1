@@ -43,7 +43,7 @@ def start_pannel():
             InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{CHANNEL}"),
         ],
         [
-            InlineKeyboardButton("📚 ᴄᴏᴍᴍᴀɴᴅ​ 📚", url="https://telegra.ph/%E0%A7%A1%F0%9D%99%B3%F0%9D%99%B1%CA%8F%C9%AA%C9%B4s-%E1%B4%87x-01-26-2"),
+            InlineKeyboardButton("📚 ᴄᴏᴍᴍᴀɴᴅ​ 📚", url="https://telegra.ph/ৡৢ‌𝙳𝙱•ʏɪɴs-ᴇx-01-26-2"),
         ],
         [
             InlineKeyboardButton("🌐 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🌐", url="https://github.com/AyiinXd/YinsMusic"),
@@ -66,7 +66,7 @@ pstart_markup = InlineKeyboardMarkup(
             InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{CHANNEL}"),
         ],
         [
-            InlineKeyboardButton("📚 ᴄᴏᴍᴍᴀɴᴅ ​📚", url="https://telegra.ph/%E0%A7%A1%F0%9D%99%B3%F0%9D%99%B1%CA%8F%C9%AA%C9%B4s-%E1%B4%87x-01-26-2"),
+            InlineKeyboardButton("📚 ᴄᴏᴍᴍᴀɴᴅ ​📚", url="https://telegra.ph/ৡৢ‌𝙳𝙱•ʏɪɴs-ᴇx-01-26-2"),
         ],
         [
             InlineKeyboardButton("🌐 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🌐", url="https://github.com/AyiinXd/YinsMusic"),

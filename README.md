@@ -42,7 +42,7 @@
 + Sudo Users can execute any command in any groups
 
 ## String Session :
-[![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-white)](https://replit.com/@AyiinXd/ConnorString#main.py)
+[![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-white)](https://replit.com/@AyiinXd/AyiinString#main.py)
 
 
 <h2 align="center">

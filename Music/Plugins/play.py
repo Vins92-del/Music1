@@ -132,6 +132,10 @@ def time_to_seconds(time):
     return sum(int(x) * 60 ** i for i, x in enumerate(reversed(stringt.split(":"))))
 
 
+BANNED_USERS = set(int(x) for x in os.getenv("BANNED_USERS", "").split())
+UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL")
+
+
 chat_id = None
 DISABLED_GROUPS = []
 useer = "NaN"
@@ -182,9 +186,6 @@ async def music_onoff(_, message: Message):
             "**• Penggunaan:**\n\n `/music on` & `/music off`"
         )
 
-
-BANNED_USERS = set(int(x) for x in os.getenv("BANNED_USERS", "").split())
-UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL")
 
 @Client.on_message(command(["play", f"play@{BOT_USERNAME}", "p"]))
 async def play(_, message: Message):
